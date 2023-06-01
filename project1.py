@@ -19,8 +19,4 @@ def process_workbook(filename):
     
     wb.save('filename')
     
-    
-
-#main program
-name = input('Enter the name of the file: ')
-process_workbook(name)
+  
